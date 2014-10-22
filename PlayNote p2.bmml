@@ -6,38 +6,45 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="355" y="115" w="148" h="42" measuredW="213" measuredH="62" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="373" y="221" w="102" h="-1" measuredW="51" measuredH="22" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Dise%25C3%25B1o%2520Playnote/texto%2520logo.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="373" y="221" w="102" h="-1" measuredW="46" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
+        <bold>true</bold>
+        <color>545684</color>
+        <size>14</size>
         <text>Usuario</text>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="373" y="257" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="373" y="257" w="-1" h="-1" measuredW="78" measuredH="22" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <bold>true</bold>
+        <color>545684</color>
+        <size>14</size>
         <text>Contrase%F1a</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="457" y="221" w="110" h="21" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="457" y="257" w="110" h="19" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="442" y="300" w="-1" h="-1" measuredW="41" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Canvas" x="457" y="221" w="110" h="21" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="457" y="257" w="110" h="19" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="442" y="300" w="-1" h="-1" measuredW="75" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>OK</text>
+        <color>16750848</color>
+        <text>ENTRAR</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="496" y="115" w="94" h="42" measuredW="310" measuredH="124" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="496" y="115" w="94" h="42" measuredW="376" measuredH="204" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <src>../Dise%25C3%25B1o%2520Playnote/logo%2520inverso.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="442" y="352" w="-1" h="-1" measuredW="68" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Link" x="442" y="352" w="-1" h="-1" measuredW="68" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Registrarse</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="355" y="115" w="141" h="43" measuredW="263" measuredH="74" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/texto%2520fondo%2520azulpng.png</src>
+        <text/>
       </controlProperties>
     </control>
   </controls>
