@@ -1,0 +1,58 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="730" measuredH="560" mockupW="397" mockupH="526">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="333" y="34" w="-1" h="-1" measuredW="397" measuredH="526" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/plantilla%2520android.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="496" y="115" w="93" h="42" measuredW="376" measuredH="204" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/logo%2520inverso.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="355" y="115" w="141" h="42" measuredW="263" measuredH="74" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/texto%2520fondo%2520azulpng.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextArea" x="381" y="188" w="91" h="22" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <text>Audio%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="459" y="222" w="-1" h="-1" measuredW="50" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2%3A30%20PM</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Map" x="409" y="243" w="115" h="88" measuredW="252" measuredH="222" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="381" y="222" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>13%20Febrero</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="358" y="346" w="58" h="58" measuredW="123" measuredH="119" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/btn%2520Play.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::ProgressBar" x="416" y="365" w="-1" h="-1" measuredW="100" measuredH="20" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="524" y="346" w="58" h="58" measuredW="217" measuredH="209" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/btn%2520Pause.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Button" x="430" y="419" w="73" h="27" measuredW="66" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>Repetir</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

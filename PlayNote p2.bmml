@@ -41,7 +41,7 @@
         <text>Registrarse</text>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="355" y="115" w="141" h="43" measuredW="263" measuredH="74" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="355" y="115" w="141" h="42" measuredW="263" measuredH="74" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <src>../Dise%25C3%25B1o%2520Playnote/texto%2520fondo%2520azulpng.png</src>
         <text/>

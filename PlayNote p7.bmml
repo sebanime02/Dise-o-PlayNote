@@ -1,0 +1,67 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="730" measuredH="561" mockupW="397" mockupH="526">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="333" y="35" w="-1" h="-1" measuredW="397" measuredH="526" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/plantilla%2520android.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="496" y="115" w="93" h="42" measuredW="376" measuredH="204" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/logo%2520inverso.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Image" x="355" y="115" w="141" h="42" measuredW="263" measuredH="74" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/texto%2520fondo%2520azulpng.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextArea" x="381" y="188" w="91" h="22" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nota%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="387" y="387" w="-1" h="-1" measuredW="63" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <size>14</size>
+        <text>Categoria</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="496" y="186" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>Detalles</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::ComboBox" x="465" y="385" w="-1" h="-1" measuredW="104" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cumplea%F1os</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::TextArea" x="381" y="228" w="91" h="22" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nota%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Button" x="496" y="226" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>Detalles</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextArea" x="381" y="268" w="91" h="22" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Audio%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="496" y="266" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16750848</color>
+        <text>Detalles</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

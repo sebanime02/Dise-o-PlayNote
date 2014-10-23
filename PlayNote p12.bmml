@@ -38,7 +38,7 @@
       </controlProperties>
     </control>
     <control controlID="28" controlTypeID="com.balsamiq.mockups::Canvas" x="449" y="346" w="93" h="26" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="393" y="402" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Button" x="442" y="399" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16750848</color>
         <text>Guardar</text>
@@ -55,12 +55,6 @@
       <controlProperties>
         <src>../Dise%25C3%25B1o%2520Playnote/btn%2520Pause.png</src>
         <text/>
-      </controlProperties>
-    </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="496" y="402" w="73" h="27" measuredW="59" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>16750848</color>
-        <text>Borrar</text>
       </controlProperties>
     </control>
   </controls>
