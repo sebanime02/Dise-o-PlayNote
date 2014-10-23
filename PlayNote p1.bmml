@@ -6,15 +6,27 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="355" y="117" w="235" h="49" measuredW="380" measuredH="94" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="355" y="117" w="235" h="42" measuredW="380" measuredH="94" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./presentation%2520bar.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="355" y="414" w="235" h="49" measuredW="380" measuredH="94" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="355" y="425" w="235" h="42" measuredW="380" measuredH="94" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./presentation%2520bar.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="362" y="222" w="221" h="128" measuredW="377" measuredH="205" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="389" y="350" w="146" h="44" measuredW="306" measuredH="83" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Dise%25C3%25B1o%2520Playnote/cargando.png</src>
         <text/>
       </controlProperties>
     </control>
